@@ -1,0 +1,2 @@
+grails-mailchimp-plugin
+=======================
